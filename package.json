@@ -1,0 +1,27 @@
+{
+  "name": "starwars-namesssss",
+  "version": "1.4.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha src/index.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/avalickij/star-wars-names"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "A. Valickij <wootsam@gmail.com> (https://bitbucket.org/avalickij/star-wars-names)",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
