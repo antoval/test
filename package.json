@@ -1,5 +1,5 @@
 {
-  "name": "starwars-namesssss",
+  "name": "starwars-names2",
   "version": "1.4.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/avalickij/star-wars-names"
+    "url": "https://github.com/antoval/test"
   },
   "keywords": [
     "random",
     "star",
     "wars"
   ],
-  "author": "A. Valickij <wootsam@gmail.com> (https://bitbucket.org/avalickij/star-wars-names)",
+  "author": "A. Valickij <wootsam@gmail.com> (www.google.com)",
   "license": "MIT",
   "dependencies": {
     "unique-random-array": "^1.0.0"
